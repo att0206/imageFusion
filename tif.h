@@ -37,6 +37,7 @@ private:
 	float* F1;
 	float* F2;
 
+
 	//float* sseOut;
 	cv::Mat FF;
 };
